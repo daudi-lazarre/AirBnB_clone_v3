@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Daudi Lazarre - [Github](github.com/daudi-lazarre)
+Daudi Lazarre - [Github](github.com/daudi-lazarre) / [Twitter](https://twitter.com/mkpoli/status/1588010480689631232)
 
 Second part of Airbnb: Joann Vuong
 Third part of Airbnb: Daudi Lazarre >:)
