@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Daudi Lazarre - [Github](github.com/daudi-lazarre) / [Twitter](https://twitter.com/mkpoli/status/1588010480689631232)
 
 Second part of Airbnb: Joann Vuong
-Third part of Airbnb: Daudi Lazarre >:)
+Third part of Airbnb: Daudi Lazarre
 
 ## License
 Public Domain. No copy write protection.
